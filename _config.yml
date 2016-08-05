@@ -6,9 +6,9 @@ color:
   saturation: 0.378032659413293
   rhythmicContrast: 0.7396969937253743
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#AAA7A7'
+    - '#FFFFFF'
+    - '#303030'
+    - '#000000'
+    - '#7B7878'
 name: Der Dachs
