@@ -1,4 +1,3 @@
-layout_spectrum: 0.03391976049169898
 typography_spectrum: 0.5676879496313632
 color:
   brandStrength: 0.14864965248852968
@@ -11,5 +10,10 @@ color:
     - '#303030'
     - '#000000'
     - '#7B7878'
+layout_spectrum: 0.03391976049169898
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0413e166-dd19-4df5-b75b-d32309bcfc90.png
 name: Der Dachs
-title: Der Dachs
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de137176-83b6-4c41-b4ac-eecb156b657f.png
+title: Börsennews
